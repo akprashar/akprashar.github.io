@@ -1,0 +1,8 @@
+https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/NHDPlusV21/FeatureServer
+
+Filter Waterbodies layer to FCODE = 44500
+
+
+https://gis.data.ca.gov/datasets/CDEGIS::california-state-boundary/about
+
+(Version saved on DWRAT_DataScraping)
